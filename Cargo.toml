@@ -1,0 +1,9 @@
+[package]
+name = "sudoku-solver"
+version = "0.0.1"
+authors = ["Abdul Pasaribu <abdoelrachmad@gmail.com"]
+repository = "https://github.com/misterabdul/sudoku-solver"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
